@@ -1,8 +1,55 @@
 [TOC]
 
 # WORK TIME LINE
+----
+#### template
+##### task list
+##### question list
+##### summary
+-------
 ## 2016
 ### 8
+
+----
+#### 17 周三
+
+##### task list
+
+1. bigpipe 布起来
+    1. 搞清楚配置环境
+    1. 线下跑通
+    1. 线上跑通
+    1. 数据格式 配置
+
+##### question list
+
+##### summary
+
+1. bigpipe 布起来
+    1. 搞清楚配置环境
+    1. 线下跑通
+    1. 线上跑通
+    1. 数据格式 配置
+
+> 完成
+
+-----
+
+#### 16 周二
+
+##### task list
+
+1. 数据库清理
+1. bigpipe
+1. 专线上布一套
+
+
+
+##### question list
+
+##### summary
+
+
 -----
 #### 15 周一
 ##### task list
@@ -51,16 +98,6 @@
 1. 给 qa 提供上线的步骤
 延后
 
------
+--------
 
-#### 16 周二
-
-##### task list
-
-1. 数据库清理
-
-
-
-##### question list
-
-##### summary
+---------
